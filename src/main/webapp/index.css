@@ -1,0 +1,33 @@
+body {
+    padding-left: 14em;
+    color: #534960;
+    background-color:#c4bad3;
+}
+
+ul.navbar {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 11em 
+}
+
+ul.navbar li {
+    background: #86779b;
+    margin: 0.8em 0;
+    padding: 0.3em;
+    border-right: 1em solid #5c4282}
+
+ul.navbar a {
+    text-decoration: none 
+}
+
+a:link {
+    color: black 
+}
+
+a:visited {
+    color: #5c4282 
+}

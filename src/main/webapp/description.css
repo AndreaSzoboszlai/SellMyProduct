@@ -1,0 +1,30 @@
+body {
+    padding-left: 18em;
+    padding-right: 18em;
+    color: #534960;
+    background-color:#c4bad3;
+    text-align: center;
+}
+
+a {
+    list-style-type: none;
+    background: #86779b;
+    margin: 0.8em 0;
+    padding-left: 4em;
+    padding-right: 4em;
+    padding-top: 0.4em;
+    padding-bottom: 0.4em;
+    text-align: center;
+    top: 2em;
+    left: 1em;
+    width: 19em ;
+}
+
+a:link {
+    color: black 
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
