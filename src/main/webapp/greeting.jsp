@@ -7,6 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Greeting</title>
+    <link rel="stylesheet" type="text/css" href="index.css">
 </head>
 <body>
 <% List<Person> people = (List<Person>) request.getAttribute("people"); %>
@@ -20,7 +21,6 @@
 
 <a href="index.html">Go back to the <em>index</em> page.</a> <br>
 
-<a href="greetingjstl.jsp">Click here to list the <em>subscribed people</em> using <strong>JSTL</strong>!</a>
 <p>Back</p>
 <br>
 </body>
